@@ -89,7 +89,7 @@ module.exports = "/*!\n * Bootstrap v4.1.1 (https://getbootstrap.com/)\n * Copyr
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "@import url(https://fonts.googleapis.com/css?family=Roboto:100);\r\n\r\nbody {\r\n  margin-top: 100px;\r\n  background-color: #137b85;\r\n  color: #fff;\r\n  text-align:center;\r\n}\r\n\r\nh1 {\r\n  font: 2em 'Roboto', sans-serif;\r\n  margin-bottom: 40px;\r\n}\r\n\r\n#loading {\r\n  display: inline-block;\r\n  width: 50px;\r\n  height: 50px;\r\n  border: 3px solid rgba(255,255,255,.3);\r\n  border-radius: 50%;\r\n  border-top-color: #fff;\r\n  animation: spin 1s ease-in-out infinite;\r\n  -webkit-animation: spin 1s ease-in-out infinite;\r\n}\r\n\r\n@keyframes spin {\r\n  to { -webkit-transform: rotate(360deg); }\r\n}\r\n\r\n@-webkit-keyframes spin {\r\n  to { -webkit-transform: rotate(360deg); }\r\n}\r\n"
+module.exports = "@import url(https://fonts.googleapis.com/css?family=Roboto:100);\r\n\r\nbody {\r\n  /*margin-top: 100px;*/\r\n  /*background-color: #137b85;*/\r\n  /*color: #fff;*/\r\n  /*text-align:center;*/\r\n}\r\n\r\nh1 {\r\n  font: 2em 'Roboto', sans-serif;\r\n  margin-bottom: 40px;\r\n}\r\n\r\n#loading {\r\n  display: inline-block;\r\n  width: 50px;\r\n  height: 50px;\r\n  border: 3px solid rgba(255,255,255,.3);\r\n  border-radius: 50%;\r\n  border-top-color: #fff;\r\n  animation: spin 1s ease-in-out infinite;\r\n  -webkit-animation: spin 1s ease-in-out infinite;\r\n}\r\n\r\n@keyframes spin {\r\n  to { -webkit-transform: rotate(360deg); }\r\n}\r\n\r\n@-webkit-keyframes spin {\r\n  to { -webkit-transform: rotate(360deg); }\r\n}\r\n"
 
 /***/ }),
 
